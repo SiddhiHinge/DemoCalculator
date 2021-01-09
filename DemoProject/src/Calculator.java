@@ -9,6 +9,11 @@ public class Calculator {
 		num1 = sc.nextInt();
 		num2 = sc.nextInt();
 		System.out.println("Addition of two numbers : "+(num1+num2));
+		System.out.println("\nEnter two numbers : ");
+		num1 = sc.nextInt();
+		num2 = sc.nextInt();
+		System.out.println("Substraction of two numbers : "+(num1-num2));
+		
 
 	}
 
